@@ -1,7 +1,5 @@
-#Build settings
-#theme: jekyll-theme-minimal
-#title: Nolan's homepage
-#description:
-# FOR THE BOISE STATE COMPUTER SCIENCE STUDENTS
-#:relieved:That school is going well!
-#:confused:always stressed tho
+This is Nolan's website
+HELLO BSU COMP SCI STUDENTS
+
+Hope you are having a good semester and
+keeping the stresses low. 
